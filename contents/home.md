@@ -1,4 +1,4 @@
-[![https://gengengen111.github.io/zhangshuo.github.oi/](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![https://gengengen111.github.io/zhangshuo.github.oi/](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/https://gengengen111.github.io/zhangshuo.github.oi/)
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.(改一下能力体现)
 
@@ -13,4 +13,4 @@ I'm currently pursuing a Master's degree in XX at the Department of XX, XX Unive
 • GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-师从西北工业大学刘卫国老师团队，研究方向未永磁同步电机无位置传感器控制及高动态发电控制
+师从西北工业大学刘卫国老师团队，研究方向永磁同步电机无位置传感器控制及高动态发电控制
